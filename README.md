@@ -11,7 +11,7 @@ You can install forcatsmisc from github with:
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("pstraforelli/havenmisc")
+remotes::install_github("philstraforelli/havenmisc")
 ```
 
 ## Examples
